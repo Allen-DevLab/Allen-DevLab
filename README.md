@@ -1,6 +1,6 @@
 <!-- 主页顶部动效或背景（可选） -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41BDF5,100:a1ffce&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=自动化%20·%20AI%20·%20智能家居&descSize=20&descAlign=65" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41BDF5,100:a1ffce&height=200&section=header&text=生活的答案，在于持续自定义&fontSize=36&fontAlignY=35&desc=自动化%20·%20AI%20·%20智能家居&descSize=20&descAlign=65" alt="header" />
 </p>
 
 <p align="center">
