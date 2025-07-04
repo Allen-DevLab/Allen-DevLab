@@ -1,6 +1,6 @@
 <!-- 主页顶部动效或背景（可选） -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a1ffce,100:41BDF5&height=200&section=header&text=生活的答案，在于持续自定义&fontSize=26&fontAlignY=35&fontColor=666666&fontShadow=true&desc=自动化%20·%20AI%20·%20智能家居&descSize=18&descColor=666666&descAlign=65" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a1ffce,100:41BDF5&height=200&section=header&text=生活的答案，在于持续自定义&fontSize=26&fontAlignY=35&fontColor=333333&fontShadow=true&desc=自动化%20·%20AI%20·%20智能家居&descSize=18&descColor=666666&descAlign=65" alt="header" />
 </p>
 
 <p align="center">
@@ -32,7 +32,9 @@
   <img src="https://img.shields.io/badge/Automation-FFD43B?style=for-the-badge&logo=autodesk&logoColor=black"/>
   <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge"/>
 </p>
-<p align="center"><sub>🛠️ 技能持续进化中… 🚀</sub></p>
+<p align="center">
+  🛠️ 技能持续进化中… 🚀
+</p>
 
 ---
 
